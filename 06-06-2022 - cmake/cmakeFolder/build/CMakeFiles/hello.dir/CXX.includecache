@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mca/Documents/MCA- Sanio/Network Lab/06-06-2022 - cmake/cmakeFolder/hello_world.cpp
+iostream
+-
+
